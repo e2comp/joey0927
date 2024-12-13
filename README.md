@@ -285,7 +285,50 @@ lang="en">
     <!-- Blog Section -->
     <div class="section">
         <h2>Staying Safe in the Digital Era</h2>
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/2nG3M8h8cHw" 
+        <iframe width="100%" height="315" src="JOEY FULLEROS
+2-INDIA
+
+BLOG: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" 
+        title="YouTube video" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+The Digital World's Bad Guys:  Viruses, Malware, Spam, and Antiviruses
+
+1. Viruses
+- Imagine a tiny bug that can copy itself and spread to other computers. That's what a virus is like! It can mess up your files, steal your information, or even take control of your computer.
+2. Malware
+- Malware is a big group of bad guys, including viruses, worms, and Trojans. They can do all sorts of nasty things, like steal your passwords, track what you do online, or even shut down your computer.
+3. Spam
+- Spam is like unwanted junk mail, but for your email inbox. It's usually annoying ads or scams trying to trick you into clicking on dangerous links.
+4. Antiviruses
+- Antiviruses are like superheroes for your computer! They are special programs that hunt down and destroy viruses and malware. They act like a shield, protecting your computer from these bad guys.
+
+How to Stay Safe
+	●	Be careful what you click on: Don't click on links from emails you don't recognize or websites that look suspicious.
+	●	Keep your software updated:  Make sure your antivirus software and other programs are always up-to-date.
+	●	Use strong passwords:  Create strong passwords that are hard to guess.
+	●	Be smart about downloads:  Only download files from trusted sources.
+
+ARTICLE: Photo
+
+Copying Without Credit: The Trouble with Plagiarism
+
+Plagiarism
+- Plagiarism is like stealing someone's idea or words and pretending it's your own. It's like taking a friend's toy and saying you made it yourself. It's not fair, and it can get you into big trouble.
+
+Famous Cases of Plagiarism
+	●	Melania Trump:  Her speech at a political event was very similar to a speech given by Michelle Obama. This caused a lot of controversy.
+	●	Joseph Biden:  He was accused of plagiarism in his speeches and had to drop out of a political race.
+	●	Stephen Ambrose:  A famous historian was accused of copying parts of other people's books. This hurt his reputation.
+
+Different Countries, Different Rules
+	●	United States:  Plagiarism can be considered copyright infringement, which is a crime. People who plagiarize can be fined or go to jail.
+	●	India:  India has laws against copyright infringement, which includes plagiarism. People who plagiarize can be fined or sent to jail.
+	●	United Kingdom:  The UK also has laws against copyright infringement, which includes plagiarism. People who plagiarize can be fined or sent to jail.
+" 
                 title="YouTube Video" frameborder="0" allowfullscreen></iframe>
         <p>1. Viruses
 - Imagine a tiny bug that can copy itself and spread to other computers. That's what a virus is like! It can mess up your files, steal your information, or even take control of your computer.

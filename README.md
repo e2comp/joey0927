@@ -126,6 +126,7 @@
     <!-- Article Section -->
     <div class="section">
         <h2>Integrity Matters: A Look at Plagiarism</h2>
+	    <img src="<img src="image-url.jpg" alt="Description of the image" style="width:200px; height:auto;">
        <p>  Plagiarism is like stealing someone's idea or words and pretending it's your own. It's like taking a friend's toy and saying you made it yourself. It's not fair, and it can get you into big trouble.
 
 Famous Cases of Plagiarism

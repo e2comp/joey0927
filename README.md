@@ -189,7 +189,6 @@
         <label for="traveling">Dance</label>
         <input type="checkbox" id="sports" name="hobbies" value="sports">
         <label for="sports">Act</label>
-      </div>
         </form>
-</body>
-</html>
+
+

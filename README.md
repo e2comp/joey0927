@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Journey and Insights</title>
     <style>
-        body {
+       body {
             background-color: #ffcc99; /* Light orange background */
-            font-family: 'Verdana', sans-serif;
+            font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 0;
             text-align: justify; /* All text justified */
@@ -54,11 +54,19 @@
             width: 100%;
             border-collapse: collapse;
             margin: 20px 0;
+            background-color: #ffe5cc; /* Light orange for table background */
         }
         table, th, td {
-            border: 1px solid #ff6600;
+            border: 1px solid #ff6600; /* Orange border */
         }
-        th, td {
+        th {
+            background-color: #ff6600; /* Orange background for headers */
+            color: white; /* White text for headers */
+            padding: 10px;
+        }
+        td {
+            background-color: #ffffff; /* White background for table cells */
+            color: black; /* Black text for table cells */
             padding: 10px;
             text-align: center;
         }
@@ -115,7 +123,6 @@
 - Spam is like unwanted junk mail, but for your email inbox. It's usually annoying ads or scams trying to trick you into clicking on dangerous links.
 4. Antiviruses
 - Antiviruses are like superheroes for your computer! They are special programs that hunt down and destroy viruses and malware. They act like a shield, protecting your computer from these bad guys.</p>
-        <p> Plagiarism is like stealing someone's idea or words and pretending it's your own. It's like taking a friend's toy and saying you made it yourself. It's not fair, and it can get you into big trouble.</p>
         <ul>
             <li><strong>Think Before You Click:</strong> Avoid suspicious links and unknown sources.</li>
             <li><strong>Update Regularly:</strong> Keep your software and antivirus up-to-date.</li>
@@ -127,7 +134,7 @@
     <div class="section">
         <h2>Integrity Matters: A Look at Plagiarism</h2>
         <img src="plag.jpeg" alt="Plagiarism image">
-        <p>Plagiarism is like stealing someone's idea...</p>
+        <p>Plagiarism is like stealing someone's idea or words and pretending it's your own. It's like taking a friend's toy and saying you made it yourself. It's not fair, and it can get you into big trouble.</p>
         <table>
             <thead>
                 <tr>

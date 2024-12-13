@@ -191,6 +191,5 @@
         <label for="sports">Act</label>
       </div>
         </form>
-    </div>
 </body>
 </html>

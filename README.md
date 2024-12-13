@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -177,6 +177,19 @@
             <label for="message">Message:</label>
             <textarea id="message" name="message" rows="4" required></textarea>
             <button type="submit">Send Message</button>
+        <label for="gender">Does it helpful?</label>
+        <input type="radio" id="male" name="gender" value="male">
+        <label for="male">Yes</label>
+        <input type="radio" id="No" name="gender" value="female">
+        <label for="female">No</label>
+        <label for="hobbies">Talent:</label>
+        <input type="checkbox" id="reading" name="hobbies" value="reading">
+        <label for="reading">Sing</label>
+        <input type="checkbox" id="traveling" name="hobbies" value="traveling">
+        <label for="traveling">Dance</label>
+        <input type="checkbox" id="sports" name="hobbies" value="sports">
+        <label for="sports">Act</label>
+      </div>
         </form>
     </div>
 </body>
